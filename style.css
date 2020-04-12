@@ -1,0 +1,15 @@
+body {
+  padding: 48px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+#target {
+  font-size: 56px;
+  letter-spacing: 8px;
+}
+.info {
+  color: rgb(154, 154, 154);
+}
+span {
+  font-size: 24px;
+}
